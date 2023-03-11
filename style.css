@@ -20,6 +20,11 @@ h1 {
     color: rgb(245, 239, 229);
 }
 
+h2 {
+    font-size: 2rem;
+    color: rgb(245, 239, 229);
+}
+
 a {
     display: inline-block;
     margin: 1rem;
@@ -104,4 +109,13 @@ a:hover {
     height:376px;
     margin:0 auto;
     display:block;
+}
+
+/* Additional styles from the codepen */
+canvas {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
 }
