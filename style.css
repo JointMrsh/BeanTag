@@ -125,5 +125,7 @@ canvas {
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
+    /* Add a linear gradient to fade into the background */
+    background-image: linear-gradient(to bottom, rgba(13,13,13,1), rgba(13,13,13,0));
 }
 
