@@ -175,3 +175,21 @@ canvas {
     cursor: pointer;
     opacity: 0.8;
 }
+
+.btn-primary-alt {
+  padding: 0.5rem 1.5rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  background-color: #6c757d;
+  border-color: #6c757d;
+  color: #fff;
+  transition: all 0.15s ease-in-out;
+}
+
+.btn-primary-alt:hover {
+  background-color: #5a6268;
+  border-color: #545b62;
+  color: #fff;
+}
+
