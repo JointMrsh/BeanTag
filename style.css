@@ -163,19 +163,6 @@ canvas {
 }
 
 
-#reset {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    top: 10px;
-    background: #444;
-    border: 1px solid #555;
-    color: #888;
-    padding: 6px 10px;
-    cursor: pointer;
-    opacity: 0.8;
-}
-
 .btn-primary-alt {
   padding: 0.5rem 1.5rem;
   font-size: 1rem;
