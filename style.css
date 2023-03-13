@@ -163,14 +163,15 @@ canvas {
 }
 
 
-.privacy-button {
-    display: inline-block;
-    margin: 1rem;
-    padding: 1rem;
-    background-color: #1E90FF;
-    color: white;
-    text-decoration: none;
-    font-size: 1.2rem;
-    border-radius: 5px;
-    transition: all 0.3s ease;
+#reset {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 10px;
+    background: #444;
+    border: 1px solid #555;
+    color: #888;
+    padding: 6px 10px;
+    cursor: pointer;
+    opacity: 0.8;
 }
