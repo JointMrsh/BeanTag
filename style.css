@@ -121,9 +121,6 @@ canvas {
 .banner {
     position: relative;
     height: 567px;
-    background-image: url('Images/Beantag.png');
-    background-repeat: no-repeat;
-    background-position: center top;
+    background: linear-gradient(to bottom, rgba(13, 13, 13, 1), rgba(13, 13, 13, 0) 50%), url('Images/Beantag.png') center top no-repeat;
     background-size: cover;
-    background: linear-gradient(to bottom, rgba(13, 13, 13, 1), rgba(13, 13, 13, 0) 50%);
 }
