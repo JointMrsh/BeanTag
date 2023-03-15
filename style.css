@@ -118,15 +118,6 @@ canvas {
     z-index: -1;
 }
 
-.banner {
-    position: relative;
-    height: 400px;
-    background-image: url('Images/Beantag.png');
-    background-repeat: no-repeat;
-    background-position: center top;
-    background-size: cover;
-}
-
 button {
     display: inline-block;
     margin: 1rem;
